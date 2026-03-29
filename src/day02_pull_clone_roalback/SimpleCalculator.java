@@ -14,5 +14,8 @@ package day02_pull_clone_roalback;
             System.out.println("Add: " + add(x, y));
             System.out.println("Subtract: " + subtract(x, y));
         }
+        public static int multiply(int a, int b) {
+             return a * b;
+}
     }
 
