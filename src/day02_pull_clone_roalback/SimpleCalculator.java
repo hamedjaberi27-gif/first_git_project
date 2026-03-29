@@ -10,7 +10,8 @@ package day02_pull_clone_roalback;
         }
 
         public static int multiply(int a, int b) {
-             return a * b;
+            return a * b;
+        }
 
         public static void main(String[] args) {
             int x = 10, y = 5;
@@ -18,6 +19,6 @@ package day02_pull_clone_roalback;
             System.out.println("Subtract: " + subtract(x, y));
         }
         
-}
+
     }
 
